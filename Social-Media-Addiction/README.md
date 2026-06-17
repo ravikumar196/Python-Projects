@@ -19,6 +19,7 @@ This project analyzes survey records from **705 students** to measure how daily 
 ## 📊 3. Chart Preview
 ![Social Media Addiction Chart](https://github.com/ravikumar196/Python-Projects/blob/main/Social-Media-Addiction/Image%201.png)
 
+![Social media addiction charts](https://github.com/ravikumar196/Python-Projects/blob/main/Social-Media-Addiction%2FVisual%20Dashboad.pdf)
 ---
 
 ## 💡 4. Key Metrics & Insights
